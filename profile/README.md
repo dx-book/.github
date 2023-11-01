@@ -6,7 +6,7 @@
 
 - 📖 Paperback Version: For those who prefer the tactile experience of a physical book, don't worry! The paperback version is available for purchase online, and in many libraries worldwide.
 
-- 🔍 Not sure if this book is for you? Test the waters by getting a free sample! Visit the book's website at [⎈ https://dx-book.com](https://dx-book.com?utm_source=github&utm_medium=profile&utm_campaign=home), or head over to the Amazon store and click the "Send a Free Sample" button.
+- 🔍 Not sure if this book is for you? Test the waters by getting a free sample! Visit the book's website at [⎈ https://dx-book.com](https://dx-book.com?utm_source=github&utm_medium=organization&utm_campaign=home), or head over to the Amazon store and click the "Send a Free Sample" button.
 
 ## Work in progress
 
